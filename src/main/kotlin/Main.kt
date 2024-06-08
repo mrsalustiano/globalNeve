@@ -2,8 +2,6 @@ package org.example
 
 import java.io.File
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     val filePath = "src\\main\\resources\\Puzzle_03.txt"
     val fileContents = readFileIntoArray(filePath)
